@@ -1,2 +1,1 @@
-install.packages("remotes")
-remotes::install_github("gideononline/gideon-api-r")
+devtools::install_github("gideononline/gideon-api-r")
